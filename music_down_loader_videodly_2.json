@@ -8,9 +8,7 @@
     "admob_banner" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_BANNER_AD_1",
     "admob_interstitial" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_INTERSTITIAL_2",
     "admob_native" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_NATIVE_AD_2",
-	"admob_open" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_OPEN_AD_2",
-    "ad_mopub_banner": "5d15233912694270bcfdefaa4423c5e1",
-    "ad_mopub_interstitial": "3e5eadcc9c4c4dc789da4b0f3b52c3fd",
+    "admob_open" : "/21952429235,22644075336/TTS_TUBEMUSICDOWNLOADER_OPEN_AD_2",
     "ad_type" : "2",
     "new_pkg" : "com.videodly.tubemusic",
     "is_version" : "false"
