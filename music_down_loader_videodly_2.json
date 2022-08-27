@@ -11,6 +11,6 @@
     "admob_open" : "ca-app-pub-7542080399448643/6858117819",
     "ad_type" : "2",
     "admob_native_ad_count" : 5,
-    "new_pkg" : "com.videodly.tubemusic",
-    "is_version" : "false"
+    "new_pkg" : "com.videodly.allvideodownloader",
+    "is_version" : "true"
   }
