@@ -9,7 +9,7 @@
       "admob_native": "/21753324030,22764336884/com.videodly.allvideodownloader_Native",
       "admob_open": "/21753324030,22764336884/com.videodly.allvideodownloader_AppOpen",
       "ad_type" : "1",
-      "load_more":true,
+      "load_more":false,
       "admob_native_ad_count" : 5,
       "new_pkg" : "com.videodly.tubemusic",
       "is_version" : "false"
